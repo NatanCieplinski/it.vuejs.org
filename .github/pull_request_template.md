@@ -1,3 +1,3 @@
-Note
-====
-We're currently in the process of migrating Vue's documentation to v3. To ensure smooth progress, only PR's that fix critical bugs and/or misinformation will be accepted. If yours is not one of them, consider [creating an issue](https://github.com/vuejs/vuejs.org/issues/new) instead and we will label it as `post-3.0` for later tackling.
+# Note
+
+Al momento ci troviamo nel processo di migrazione della documentazione di Vue alla versione 3. Per assicurare una migrazione senza problemi, saranno accettate solo le PR che risolvono bug critici e/o disinformazione. Se la tua non è una di queste, considera come alternativa [aprire un issue](https://github.com/vuejs/vuejs.org/issues/new) e noi assegneremo la label `post-3.0` per risolverlo più tardi.

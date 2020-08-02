@@ -1,92 +1,92 @@
 ﻿# vuejs.org
 
-This site is built with [hexo](http://hexo.io/). Site content is written in Markdown format located in `src`. Pull requests welcome!
+Questo sito è costruito con [hexo](http://hexo.io/). Il contenuto è scritto in formato Markdown e si trova in `src`. Le pull requests sono le benvenute.
 
 ## Writing
 
-See the [Vue Docs Writing Guide](https://github.com/vuejs/vuejs.org/blob/master/writing-guide.md) for our rules and recommendations on writing and maintaining documentation.
+Leggi la [Guida alla Scrittura della Documentazione di Vue](https://github.com/vuejs/vuejs.org/blob/master/writing-guide.md) per le nostre regole e raccomandazioni sulla scrittura e il mantenimento della documentazione.
 
 ## Developing
 
-``` bash
+```bash
 $ npm install
 $ npm start # dev server at http://localhost:4000
 ```
 
 ## Deploying
 
-The site is automatically deployed when commits land in `master`, via [Netlify](https://www.netlify.com/).
-
-If you are the maintainer of a community translation fork and would like to deploy via Netlify instead of GitHub pages, please ping @yyx990803 in an issue to request a Netlify team membership and DNS update.
+Il deploy del sito avviene automaticamente quando ci sono delle commit sul `master`, utilizzando [Netlify](https://www.netlify.com/).
+Se mantieni una fork contenente una traduzione delle community e vorresti fare il deploy utilizzando Netlify invece di GitHub pages, fai un ping a @yyx990803 in un issue, per richiedere l'appartenenza al team Netlify e un aggiornamento dei DNS.
 
 ## On Translations
 
-Translations for this documentation project are currently maintained in separate repositories forked from this original one.
+Le traduzioni di questa documentazione sono attualmente mantenute in repository separate, tramite una fork di questa repository originale.
 
 ### Arabic
 
-Arabic translation is maintained by [Interstellar Club](https://github.com/InterstellarClub)
+La traduzione araba è mantenuta da [Interstellar Club](https://github.com/InterstellarClub)
 
-* Translation Repo - [/interstellarClub/ar.vuejs.org](https://github.com/interstellarClub/ar.vuejs.org)
-* Primary Maintainers :
-    * [Ilyes Chouia](https://github.com/celyes)
-    * [Ahmed Aissaoui](https://github.com/Aissaoui-Ahmed)
+- Repo della traduzione [/interstellarClub/ar.vuejs.org](https://github.com/interstellarClub/ar.vuejs.org)
+- Primary Maintainers :
+  - [Ilyes Chouia](https://github.com/celyes)
+  - [Ahmed Aissaoui](https://github.com/Aissaoui-Ahmed)
 
 ### French
 
 French translation is maintained by Vuejs-FR.
-* Translation Repo - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
+
+- Translation Repo - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
 
 ### Italian
 
-* Translation Repo - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
+- Translation Repo - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
 
 ### Japanese
 
 Japanese translation is maintained by [Vue.js japan user group](https://github.com/vuejs-jp)
 
-* Translation Repo - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
-* Primary maintainer - [kazupon](https://github.com/kazupon)
-* Secondary Maintainers:
-    * [re-fort](https://github.com/re-fort)
-    * [potato4d](https://github.com/potato4d)
-    * [oohira](https://github.com/oohira)
+- Translation Repo - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
+- Primary maintainer - [kazupon](https://github.com/kazupon)
+- Secondary Maintainers:
+  - [re-fort](https://github.com/re-fort)
+  - [potato4d](https://github.com/potato4d)
+  - [oohira](https://github.com/oohira)
 
 ### Korean
 
 Korean translation is maintained by [Vue.js Korean User group](https://github.com/vuejs-kr).
 
-* Translation Repo - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
-* Primary maintainer - [ChangJoo Park](https://github.com/ChangJoo-Park)
+- Translation Repo - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
+- Primary maintainer - [ChangJoo Park](https://github.com/ChangJoo-Park)
 
 ### Mandarin
 
-* Translation Repo - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
+- Translation Repo - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
 
 ### Persian (Farsi)
 
 Persian translation is maintained by VueJS-fa.
 
-* Translation Repo - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
-* Primary maintainer - [Pooya Parsa](https://github.com/pi0)
+- Translation Repo - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
+- Primary maintainer - [Pooya Parsa](https://github.com/pi0)
 
 ### Português-Br
 
 Português-Br translation is maintained by [Vuejs-Br](https://github.com/vuejs-br).
 
-* Translation Repo - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
+- Translation Repo - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
 
 ### Russian
 
 Russian translation is maintained by Translation Gang.
 
-* Translation Repo - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
-* Primary maintainer - [Grigoriy Beziuk](https://gbezyuk.github.io)
+- Translation Repo - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
+- Primary maintainer - [Grigoriy Beziuk](https://gbezyuk.github.io)
 
 ### Spanish
 
-* Translation Repo - [/1950Labs/vuejs.org](https://github.com/1950Labs/vuejs.org)
-* Spanish translation is maintained by:
+- Translation Repo - [/1950Labs/vuejs.org](https://github.com/1950Labs/vuejs.org)
+- Spanish translation is maintained by:
 
 [1950Labs](https://1950labs.com) & [Vue.js Montevideo](https://www.meetup.com/Montevideo-Vue-JS-Meetup/):
 
@@ -104,19 +104,18 @@ Russian translation is maintained by Translation Gang.
 - [Pablo Kz](https://github.com/pabloKz)
 - [Leonardo Fagundez](https://github.com/lfgdzdev) | [Twitter](https://twitter.com/Lfgdz)
 
-
 ### Vietnamese
 
 Vietnamese translation is maintained by [Vue.js Vietnam User group](https://github.com/vuejs-vn/).
 
-* Translation Repo: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
-* Primary maintainer - [phanan](https://github.com/phanan)
+- Translation Repo: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
+- Primary maintainer - [phanan](https://github.com/phanan)
 
 ### Bahasa Indonesia
 
 Bahasa Indonesia translation is maintained by [Vue.js Indonesia](https://github.com/vuejs-id/).
 
-* Translation Repo: [/vuejs-id/docs](https://github.com/vuejs-id/docs)
+- Translation Repo: [/vuejs-id/docs](https://github.com/vuejs-id/docs)
 
 ### Want to help with the translation?
 
