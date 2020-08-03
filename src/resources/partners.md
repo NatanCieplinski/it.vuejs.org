@@ -11,7 +11,7 @@ partners_list:
         name: Vehikl
         logo: vehikl.png
         description:
-            Vehikl is a software consultancy specialising in PHP and JavaScript. We build best-in-class web applications written with popular frameworks such as Laravel, Express, NestJS, Vue, and React. Think of us as an extension of your team.
+            Vehikl è un consulente software specializzato in PHP e JavaScript. Noi costruiamo le applicazioni web migliori del settore, scritte utilizzando framework popolari come Laravel, Express, NestJS, Vue e React. Vedici come un'estensione del tuo team.
         proficiencies:
             - VueJs
             - Laravel
@@ -42,11 +42,12 @@ partners_list:
         name: Modus Create
         logo: https://res.cloudinary.com/modus-labs/image/upload/v1533109874/modus/logo-vertical-black.svg
         description:
-            "Modus Create is a disruptive consulting firm that helps companies transform for success in the digital future.
+            "Modus Create è un marchio di consulenza che aiuta le imprese a trasformarsi per il successo nel futuro digitale. 
 
-            Clients work with Modus to effect transformational change through a unique collaborative engagement model that focuses on strategy, product design/build, user experience, company culture, and process change to accelerate their response to digital disruption.
+            I clienti lavorano con Modus per una trasformazione tramite un modello di coinvolgimento collaborativo unico che si concentra sulla strategia, progettazione e costruzione del prodotto, user experience, cultura aziendale, e un cambiamento dei processi per accellerare la loro risposta alla rivoluzione digitale.
 
             Modus is uniquely expert at executing within the new reality of global talent sourcing and globally distributed teams. Modus culture is based on recruiting only top talent regardless of their location. Modus delivers time zone-aligned, highly productive, English-speaking teams, accessibility, and a totally collaborative environment regardless of individual location.
+            Modus è unicamente esperta nel muoversi nella nuova realtà di talenti internazionali e team distribuiti globalmente. La cultura di Modus è basata sul recruiting dei migliori talenti, a prescindere dalla posizione. Modus fornisce un team allineato per fasce orarie, altamente produttivo, che parla inglese, e un ambiente totalmente collaborativo a prescindere dalle posizioni individuali.  
 "
         proficiencies:
             - name: Vue.js
@@ -94,7 +95,7 @@ partners_list:
         name: Monterail
         logo: Monterail.png
         description:
-            "Monterail is a full-service software development company with 110+ experts on board delivering meaningful software for start-ups, SMBs and enterprises. We are organizers of the first official Vue-related conference in the world and authors of the State of Vue.js report (2017&2019). Our experts delivered 30 Vue.js-based projects so far."
+            "Monterail è una compagnia di sviluppo software con più di 110 esperti a bordo, che forniscono software ad alto impatto per start-up, PMI e grandi imprese. Siamo organizzatori della prima conferenza nel mondo su Vue e autori del report Lo Stato di Vue.js (2017&2019). I nostri esperti hanno consegnato 30 progetti basati su Vue.js fino ad oggi."
         proficiencies:
             - name: VueJs
               url: https://hi.monterail.co/2NqPUa6
@@ -141,7 +142,7 @@ partners_list:
         name: Rangle
         logo: https://res.cloudinary.com/rangle/image/upload/q_auto,f_auto/vuejs.org/rangle_black_lockup_n6q48z.png
         description:
-            "Rangle is a global digital consultancy that helps ambitious organizations outperform the competition in the most demanding markets. We work closely with our clients as one team to imagine, design, and deliver human-centered digital experiences that create lasting results and real business value. Anchored in innovation and lean startup best-practices, our unique delivery and partnership model is purposed-built to this task."
+            "Rangle è un consulente digitale globale che aiuta le organizzazioni ambiziose a superare la competizione nei mercati con domanda più alta.Noi lavoriamo vicino ai nostri clienti come un solo team per immaginare, progettare e fornire un'esperienza digitale human-centered che crea risultati duraturi e aggiunge valore al business. Ancorati all'innovazione e alle migliori pratiche del lean startup, il nostro unico modello di partnership è incentrato su questo scopo."
         proficiencies:
             - name: Building Products
               url: https://rangle.io/#build-a-product/?utm_source=referral&utm_medium=partner&utm_campaign=vue-partners
