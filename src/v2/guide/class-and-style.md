@@ -116,7 +116,7 @@ Tuttavia questo metodo risulta un pò verboso se utilizzi multiple classi condiz
 
 ### Con i Componenti
 
-> Questa sezione assume la cononscienza dei [Componenti Vue](components.html). Sentiti libero di saltarla e tornare quì più tardi.
+> Questa sezione assume la cononscienza dei [Componenti Vue](components.html). Sentiti libero di saltarla e tornare qui più tardi.
 
 Quando utilizzi l'attributo `class` su un component custom, quelle classi saranno aggiunte all'elemento radice del tuo componente. Le classi esistenti su quell'elemento non verranno sovrascritte. 
 

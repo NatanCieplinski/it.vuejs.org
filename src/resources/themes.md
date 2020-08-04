@@ -10,7 +10,7 @@ order: 804
   </section>
 
   <p>
-    Vipo mostrare il tuo tema quì?
+    Vuoi mostrare il tuo tema qui?
     <a href="mailto:evan@vuejs.org?subject=Theme+affiliation">Contattaci</a>!
   </p>
 </div>
