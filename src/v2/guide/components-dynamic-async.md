@@ -154,7 +154,7 @@ Noterai che se selezioni un post, passi alla tab _Archive_, e poi torni alla tab
 Ricreare componenti dinamici solutamente è utile, ma in questo caso, ci piacerebbe che le istanze dei componenti tab siano messe in cache quando vengono create per la prima volta. Per rispondere a questa esigenza, possiamo racchiudere il nostro componente dinamico in un elemento `keep-alive`:
 
 ``` html
-<!-- Inactive components will be cached! -->
+<!-- I componenti inattivi saranno messi in cache! -->
 <keep-alive>
   <component v-bind:is="currentTabComponent"></component>
 </keep-alive>
@@ -208,7 +208,7 @@ In applicazioni grandi, potremmo aver bisogno di dividere l'applicazione in part
 ``` js
 Vue.component('async-example', function (resolve, reject) {
   setTimeout(function () {
-    // Pass the component definition to the resolve callback
+    // Passa la definizione del componente per risolvere la callback
     resolve({
       template: '<div>I am async!</div>'
     })
@@ -220,9 +220,9 @@ Come puoi vedere, la funzione factory riceve una callback `resolve`, la quale do
 
 ``` js
 Vue.component('async-webpack-example', function (resolve) {
-  // This special require syntax will instruct Webpack to
-  // automatically split your built code into bundles which
-  // are loaded over Ajax requests.
+  // Questa sintassi speciale di require indicherà a Webpack di
+  // spezzare automaticamente il tuo codice in pacchetti
+  // che sono caricati con richieste Ajax.
   require(['./my-async-component'], resolve)
 })
 ```
@@ -232,7 +232,7 @@ Puoi anche ritornare una `Promise` nella funziona factory, così che con Webpack
 ``` js
 Vue.component(
   'async-webpack-example',
-  // A dynamic import returns a Promise.
+  // Un import dinamico ritorna una Promise.
   () => import('./my-async-component')
 )
 ```
@@ -258,16 +258,16 @@ La factory di componenti asincroni può anche ritornare un oggetto nel seguente 
 
 ``` js
 const AsyncComponent = () => ({
-  // The component to load (should be a Promise)
+  // Il componente da caricare (dovrebbe essere una Promise)
   component: import('./MyComponent.vue'),
-  // A component to use while the async component is loading
+  // Un componente da usare mentre il componente asincrono sta caricando
   loading: LoadingComponent,
-  // A component to use if the load fails
+  // Un componente da usare se il caricamento fallisce
   error: ErrorComponent,
-  // Delay before showing the loading component. Default: 200ms.
+  // Ritardo prima di mostrare il componente in caricamento. Predefinito: 200ms.
   delay: 200,
-  // The error component will be displayed if a timeout is
-  // provided and exceeded. Default: Infinity.
+  // Il componente di errore verrà mostrato se è stato fornito e 
+  // superato un timeout. Predefinito: Infinito.
   timeout: 3000
 })
 ```
