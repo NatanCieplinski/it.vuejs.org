@@ -4,7 +4,7 @@ type: guide
 order: 102
 ---
 
-> This page assumes you've already read the [Components Basics](components.html). Read that first if you are new to components.
+> Questa pagina assume che tu abbia già letto le [Nozioni di Base sui Componenti](components.html). Leggi prima quella guida se il concetto di componente ti è nuovo.
 
 <div class="vueschool"><a href="https://vueschool.io/lessons/reusable-components-with-props?friend=vuejs" target="_blank" rel="sponsored noopener" title="Learn how component props work with Vue School">Learn how component props work with a free lesson on Vue School</a></div>
 

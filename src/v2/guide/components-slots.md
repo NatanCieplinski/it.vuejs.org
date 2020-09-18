@@ -4,7 +4,7 @@ type: guide
 order: 104
 ---
 
-> This page assumes you've already read the [Components Basics](components.html). Read that first if you are new to components.
+> Questa pagina assume che tu abbia già letto le [Nozioni di Base sui Componenti](components.html). Leggi prima quella guida se il concetto di componente ti è nuovo.
 
 > In 2.6.0, we introduced a new unified syntax (the `v-slot` directive) for named and scoped slots. It replaces the `slot` and `slot-scope` attributes, which are now deprecated, but have _not_ been removed and are still documented [here](#Deprecated-Syntax). The rationale for introducing the new syntax is described in this [RFC](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0001-new-slot-syntax.md).
 
